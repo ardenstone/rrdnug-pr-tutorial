@@ -10,9 +10,8 @@
 5. When you have completed your changes and are ready to create your pull request click the "New pull request" button
 ![New pull request button on github](https://github.com/lnchapin/rrdnug-pr-tutorial/blob/master/images/newPullRequestButton.png)
 6. From there you will be directed to page to compare changes
-![Comparing changes page on github](https://github.com/lnchapin/rrdnug-pr-tutorial/blob/master/images/comparingChangesPage.png)
 * Click on the "Create pull request" button.
-  ![Create Pull Request Button on github](https://github.com/lnchapin/rrdnug-pr-tutorial/blob/master/images/createPullRequestButton.png)
+  ![Comparing changes page on github](https://github.com/lnchapin/rrdnug-pr-tutorial/blob/master/images/comparingChangesPage.png)
 7. This will redirect you to an open pull request page
 ![Open pull request page on github](https://github.com/lnchapin/rrdnug-pr-tutorial/blob/master/images/openPullRequestPage.png)
 * Fill out the subject, and write a quick description on what your pull request is
